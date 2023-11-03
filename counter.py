@@ -1,6 +1,8 @@
 """
 Módulo Colletctions - Counter (Contador)
 
+https://docs.python.org/3/library/collections.html#collections.Counter
+
 Collections -> High-performance Container Datetypes
 
 Counter -> Recebe um iterável como parâmetro e cria um objeto do tipo Collections Counter que é parecido
