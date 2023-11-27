@@ -15,6 +15,8 @@ Tipo Numérico
     x ** x
 - Módulo ( Resto da divisão/Número par ou impar)
     x % x
+- Raiz
+    x ** (1/2)
 """
 
 num = 1_000_000  # O "_" entre os números facilita a visualização das casa de milhares
